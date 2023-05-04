@@ -5339,10 +5339,6 @@ textarea.form-control-lg {
   opacity: var(--bs-backdrop-opacity);
 }
 
-header { background-image: "airplane.png";
-}
-
-
 .modal-header {
   display: flex;
   flex-shrink: 0;
